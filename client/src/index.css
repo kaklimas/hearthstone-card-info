@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App{
+  width: 100%;
+  min-height: 1000px;
+  background: url('https://d2vkoy1na2a6o6.cloudfront.net/_next/static/images/homepage_chalk_tile-7e161157dbaaa19b94ba3136d3addc44.jpg');
+}
